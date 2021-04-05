@@ -1,0 +1,16 @@
+.text {
+    width: 65%;
+    margin: 15px auto;
+    font-size: 1.3rem;
+    line-height: 2.2;
+    letter-spacing: 2px;
+    text-transform: capitalize;
+    text-align: start;
+}
+
+.text h3 {
+    margin: 30px 0;
+    width: 50%;
+    border-bottom: 2px solid #000;
+
+}
